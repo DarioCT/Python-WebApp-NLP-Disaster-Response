@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Disaster Response Web App
 
 ![Intro Pic](images/web_app.png)
 ![Classification Pic](images/classification_result.png)
