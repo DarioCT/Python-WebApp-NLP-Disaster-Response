@@ -40,15 +40,15 @@ You can run the following commands in the project's directory to set up the data
 
 1. To run ETL pipeline to clean data and store the processed data in the database
 
-        `python etl.py data/disaster_messages.csv data/disaster_categories.csv data/database.db`
+`python etl.py data/disaster_messages.csv data/disaster_categories.csv data/database.db`
 
 2. To run the ML pipeline that loads data from database, trains the classifier and saves the classifier as a pickle file
 
-        `python train_classifier.py data/database.db models/classifier.pkl`
+`python train_classifier.py data/database.db models/classifier.pkl`
 
 3. Run the following command in the app's directory to run the web app. One does not need to run the previous two steps as their output is already saved.
 
-        `python run.py`
+`python run.py`
 
 4. Type `localhost:3001` in your browser
 
