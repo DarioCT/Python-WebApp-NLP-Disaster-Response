@@ -17,7 +17,7 @@ The project aim is to build a NLP model to categorize messages and create a web 
 
 This project is divided in the following key sections:
 
-1. Processing data, building an ETL pipeline to extract data from two csv files, cleaning the data and saving them it to a database
+1. Processing data, building an ETL pipeline to extract data from two csv files, cleaning the data and saving it to a database
 2. Build a machine learning pipeline to train model which can classify text message into set categories
 3. Create web app which can be used for prediction of new messages
 
