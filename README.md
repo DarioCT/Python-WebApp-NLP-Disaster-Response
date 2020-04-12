@@ -63,11 +63,11 @@ In the **data** and **models** folder you can find jupyter notebooks that will h
 ### Important Files
 **app/templates/***: templates/html files for web app
 
-**data/etl.py**: ETL pipeline used for data cleaning, feature extraction, and storing data in a SQLite database
+**etl.py**: ETL pipeline used for data cleaning, feature extraction, and storing data in a SQLite database
 
-**models/train_classifier.py**: A machine learning pipeline that loads data, trains a model, and saves the trained model as a .pkl file for later use
+**train_classifier.py**: A machine learning pipeline that loads data, trains a model, and saves the trained model as a .pkl file for later use
 
-**run.py**: This file can be used to launch the Flask web app used to classify disaster messages
+**app/run.py**: This file can be used to launch the Flask web app used to classify disaster messages
 
 <a name="authors"></a>
 ## Authors
