@@ -1,6 +1,8 @@
 # Disaster Response Web App
 
 ![Intro Pic](images/web_app.png)
+
+# Classification Results
 ![Classification Pic](images/classification_result.png)
 
 ## Table of Contents
